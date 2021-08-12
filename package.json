@@ -4,9 +4,9 @@
   "description": "Simple Java Calculator",
   "main": "index.js",
   "scripts": {
-    "test": "cd mandys-calculator npm run test",
-    "start": "cd mandys-calculator npm start",
-    "build": "cd mandys-calculator npm run run build"
+    "test": "cd mandys-calculator && npm run test",
+    "start": "cd mandys-calculator && npm start",
+    "build": "cd mandys-calculator && run build"
   },
   "repository": {
     "type": "git",
