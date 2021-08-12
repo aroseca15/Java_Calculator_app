@@ -1,0 +1,21 @@
+{
+  "name": "java_calculator_app",
+  "version": "1.0.0",
+  "description": "Simple Java Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd mandys-calculator npm run test",
+    "start": "cd mandys-calculator npm start",
+    "build": "cd mandys-calculator npm run run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aroseca15/Java_Calculator_app.git"
+  },
+  "author": "Amanda MacDonald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aroseca15/Java_Calculator_app/issues"
+  },
+  "homepage": "https://github.com/aroseca15/Java_Calculator_app#readme"
+}
