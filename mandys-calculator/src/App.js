@@ -9,14 +9,15 @@ function App() {
         <h1>
           Welcome to Java Calculator
         </h1>
-        <a
+        <div className = 'card'>
+          Hello Java Calculator
+        </div>
+        <p
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
+          Using React
+        </p>
       </header>
     </div>
   );
